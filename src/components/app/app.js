@@ -22,10 +22,10 @@ const App = () => {
 
     const [items, setItems] = useState(
         [
-            createNewItem('Drink a coffe'),
-            createNewItem('Read a book'),
-            createNewItem('Go to walk'),
-            createNewItem('Enlightment')
+            createNewItem('Wake up'),
+            createNewItem('Make coffee'),
+            createNewItem('Drink coffee'),
+            createNewItem('Be amazing')
         ]
     );
 
