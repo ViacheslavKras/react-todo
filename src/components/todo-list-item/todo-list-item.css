@@ -1,0 +1,19 @@
+.list-group-item .label {
+    font-size: 1.25rem;
+}
+
+.list-group-item .done {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.list-group-item button {
+    float: right;
+    margin-left: 3px;
+    width: 35px;
+}
+
+.list-group-item .important {
+    color: blue;
+    font-weight: bold;
+}
